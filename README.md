@@ -1,5 +1,6 @@
 # WebApp
 This app is intended to input 2D images of an 3D object and 3D reconstruction is created.
+DISK feature extractor is used to extract features.Then pycolmap library is used to create the 3D point cloud reconstruction.
 ## Input Imageset
 ![image](https://github.com/2D-to-3D/WebApp/assets/56537975/a0ac3d30-f2ca-48be-9332-b91b1976ddc0)
 
